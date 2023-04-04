@@ -24,3 +24,4 @@ Icon -> [Hero Icons](https://heroicons.com/)
 Lottie Animation -> [LottieFiles](https://lottiefiles.com/featured)
 
 Lottie NPM Package -> [react-lottie](https://www.npmjs.com/package/react-lottie)
+# next-pageBook
